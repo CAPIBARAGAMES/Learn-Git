@@ -7,4 +7,4 @@
 - En este documento pondremos utilizarlo para poner informacion a cerca d nuetro proyecto o indicaciones de como utilizarlo, descarlarlo, etc.
 el documento de tipo md es un tipo de documento parecido al html de hyper text.
 
-
+Sistema de registro 2
